@@ -143,9 +143,7 @@ h3{
      height: 213px;
      margin-left: 400px;
  }
- .icons{
-     text-decoration: none;
- }
+
 
  .icons i{
      padding-left: 1em;
@@ -217,7 +215,15 @@ h3{
         height: 213px;
         margin-left: 160px;
     }
-
+    .form {
+        text-align: center;
+        margin-left:2%;
+        margin-right: -61%;
+        margin-top: 5%;
+        box-shadow: 10px 10px 40px rgb(129 108 108);
+        border-radius: 12px;
+        padding: 10px;
+    }
      /* .players{
          display: block;
          margin-left: 400px;
@@ -232,3 +238,4 @@ h3{
          border: 10px solid black;
      } */
  }
+ 
