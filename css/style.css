@@ -38,7 +38,7 @@ h3{
     font-weight: 500;
     
     color: white ;
-    padding: 10px 15px;
+    padding: 6px 22px;
 
 }
 .arrow{
@@ -100,3 +100,24 @@ h3{
 } */
 
 
+ /* logo style  */
+ footer{
+     border: 2px solid;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+     /* text-align: center; */
+     margin-top: 158px;
+     width: 483.87px;
+     height: 213px;
+     margin-left: 400px;
+ }
+
+ .icons i{
+     padding-left: 1em;
+ }
+ .logo img{
+    width: 483.87px;
+    height: 110px;
+ }
