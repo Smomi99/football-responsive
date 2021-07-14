@@ -149,18 +149,19 @@ h3{
         grid-gap: 30px;
     }
     .player{
-        width: 707px;
-        height: 748px;
+        width: 640px;
+        height: 871px;
         border: 2px solid black;
         /* text-align: center; */
         box-shadow: 0px 0px 40px rgb(0 0 0 / 15%);
         /* position: absolute; */
         border-radius: 5px;
-        padding-left: 16px;
+        padding-left: 40px;
+        margin-left: 19px;
     }
     .player img {
-        width: 688px;
-        height: 584px;
+        width: 593px;
+        height: 521px;
         /* width: 50%; */
         margin-top: 16px;
     }
